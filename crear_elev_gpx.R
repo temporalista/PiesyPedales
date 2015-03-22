@@ -38,10 +38,10 @@ leer<-function(directorio){
     #limpiar datos
     data<-raw[4][[1]][[1]][[1]]
     #agregar tiempo en formato tiempo
-    data["temp"]<-substr(data$time, 12, 23)
+    data["temp"]<-substr(data$time, 12, 19)
     data["tiempo"]<-chron(times=data$temp)
     #grabar minimo del valor tiempo
-    mintime<-min(data[[5]])
+    mintime<-min(data$tiempo)
     #agregar tiempo reescalado segun minimo
     data["tiempo_E"]<-as.character(data$tiempo-mintime)
     #agregar tiempo en segundos
@@ -57,29 +57,12 @@ leer<-function(directorio){
     data$seg<-NULL
     
     #escribir archivos
-    nombre1<-paste(i,".gpx",sep="")
+    nombre1<-paste(i,"_elev",".gpx",sep="")
     gpx_new<-SpatialPointsDataFrame(data=data,  coords=data[,1:2], proj4string=CRS("+proj=longlat +datum=WGS84"))
-    writeOGR(dat, dsn=nombre1, layer="tracks", driver="GPX", dataset_options="GPX_USE_EXTENSIONS=yes")
+    writeOGR(gpx_new, dsn=nombre1, layer="trackpoints", driver="GPX", dataset_options="GPX_USE_EXTENSIONS=yes")
     
- 
+    
     
   }
   print("acabado!")
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -38,10 +38,10 @@ leer<-function(directorio){
     #limpiar datos
     data<-raw[4][[1]][[1]][[1]]
     #agregar tiempo en formato tiempo
-    data["temp"]<-substr(data$time, 12, 23)
+    data["temp"]<-substr(data$time, 12, 19)
     data["tiempo"]<-chron(times=data$temp)
     #grabar minimo del valor tiempo
-    mintime<-min(data[[5]])
+    mintime<-min(data$tiempo)
     #agregar tiempo reescalado segun minimo
     data["tiempo_E"]<-as.character(data$tiempo-mintime)
     #agregar tiempo en segundos
@@ -58,7 +58,7 @@ leer<-function(directorio){
     
     
     #escribir archivos
-    nombre1<-paste(i,".csv",sep="")
+    nombre1<-paste(i,"_elev",".csv",sep="")
     print(nombre1)
     write.csv(data,nombre1)
     
