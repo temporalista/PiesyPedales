@@ -21,6 +21,7 @@ crear_tiempo<-function(x){
 
 #leer todos los archivos de un directorio especifico
 leer<-function(directorio){
+  #leer todos los archivos dentro del directorio
   setwd(directorio)
   files<-list.files()
   id<-as.integer(length(files))
@@ -35,12 +36,13 @@ leer<-function(directorio){
     data$temp<-substr(data$time, 12, 19)
     data$tiempo<-chron(times=data$temp)
     #grabar minimo del valor tiempo
-    mintime<-min(data$tiempo)
+    data$id<-paste(data$track_fid,data$track_seg_id, sep="")
+    data$mintime<-with(data,ave(data$tiempo,data$id,FUN=min))
     #agregar tiempo reescalado segun minimo
-    data$tiempo_E<-as.character(data$tiempo-mintime)
+    data$tiempo_E<-as.character(data$tiempo-data$mintime)
     #agregar tiempo en segundos
     data$seg<-sapply(data$tiempo_E, segundos)
-    #cambiar formato tiempo
+    #cambiar formato tiempo, tiempo debe tener una fecha
     data$time<-paste("2015/02/02", data$tiempo_E, sep=" ")
     #crear elevacion a partir de segundos // factor de conversion puede cambiar
     data$ele<-data$seg
@@ -49,6 +51,8 @@ leer<-function(directorio){
     data$tiempo<-NULL
     data$tiempo_E<-NULL
     data$seg<-NULL
+    data$mintime<-NULL
+    data$id<-NULL
     
     
     #escribir archivos
