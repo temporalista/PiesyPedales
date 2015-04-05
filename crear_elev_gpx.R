@@ -5,14 +5,19 @@
 ##El input es un directorio con archivos gpx (sin otro tipo de archivos)
 ##Script realizado por Mateo Neira (LlactaLAB - Ciudades Sustentables, Universidad de Cuenca)
 
+##To-Do
+##Crear un solo archivo de salida
+##Parametros para la altura maxima
+##Calculo de velocidad y firo
+##Colores
 
 #cargar libreria de rgdal para leer archivos gpx y chron para trabajar con datos de tiempo.
+
 library(chron)
 library(rgdal)
 
 #funcion para convertir el tiempo a segundos
-segundos <- function(x)
-{
+segundos <- function(x) {
   hhmmss <- strsplit (x, ":", T)
   hh <- as.numeric (hhmmss[[1]][1])
   mm <- as.numeric (hhmmss[[1]][2])
@@ -27,20 +32,24 @@ crear_tiempo<-function(x){
 }
 
 
-#leer todos los archivos de un directorio de entrada
-leer<-function(directorio){
+#Crea trayectorias espacio temporales en 3D
+crear_STT3D<-function(directorio){
   #leer todos los archivos de un directorio de entrada
-  setwd(directorio)
+##esto tiene que ser solucionado de otra manera
+  #setwd(directorio)
   files<-list.files()
   id<-as.integer(length(files))
   id<-c(1:id)
   print(id)
+  
   for (i in id){
     print(i)
+    
     #leer archivo gpx
     (layers <- ogrListLayers(files[i]))
     data <- readOGR(files[i], layer=layers[5])
     
+
     #agregar tiempo en formato tiempo
     data$temp<-substr(data$time, 12, 19)
     data$tiempo<-chron(times=data$temp)
@@ -70,10 +79,14 @@ leer<-function(directorio){
     data$id<-NULL
     
     
-    #escribir archivos
-    nombre1<-paste(i,"_elev",".gpx",sep="")
-    print(nombre1)
-    writeOGR(data, dsn=nombre1, layer="track_points", driver="GPX", dataset_options="GPX_USE_EXTENSIONS=yes")
+    #escribe el nuevo archivo
+    if (!file.exists("STT3D")){
+            dir.create("STT3D")
+            
+    }
+    nombrearchivo <- strsplit(files[i],"\\.")[[1]]
+    nombrenuevo <- paste("./STT3D/",nombrearchivo[[1]], "_STT3D.",nombrearchivo[[2]], sep="")
+    writeOGR(data, dsn=nombrenuevo, layer="track_points", driver="GPX", dataset_options="GPX_USE_EXTENSIONS=yes")
   }
   print("acabado!")
 }
