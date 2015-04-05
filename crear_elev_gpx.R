@@ -10,6 +10,9 @@
 ##Parametros para la altura maxima
 ##Calculo de velocidad y firo
 ##Colores
+##Debug: Error en algunos archivos: 
+# "Error in ogrListLayers(files[i]) : Cannot open data source"
+# "In addition: There were 50 or more warnings (use warnings() to see the first 50)"
 
 #cargar libreria de rgdal para leer archivos gpx y chron para trabajar con datos de tiempo.
 
