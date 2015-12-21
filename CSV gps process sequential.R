@@ -10,9 +10,10 @@ edf <- cbind("id","lat","lon","alt","speed","time_posix","time_posix_sec","times
 write.table(edf,file="processed/moves.csv", sep = ",", col.names = F, na = "", row.names = F)
 
 #initialize trajectory
-trajnum=1
+trajnum=0
 
 for (f in seq_along(files))  {
+  trajnum <- trajnum + 1
   mydata <- read.csv (files[f],header = F,stringsAsFactors=FALSE)
   ##subset rows with data
   mydata <- mydata[which(as.numeric(mydata$V5)>0),1:5]
@@ -27,7 +28,7 @@ for (f in seq_along(files))  {
   
   ##start computation at the second row (first row has nothing behind to compare with)
   registros <- c(1:nrow(mydata))
-  #registros <- c(1000:2000)
+  #registros <- c(1:1000)
   seq=1
   mydata[1,"trajnum"] <- trajnum
   mydata[1,"seq"] <- seq
@@ -47,6 +48,6 @@ for (f in seq_along(files))  {
 
   }
   write.table(mydata,file="processed/moves.csv", append = T,sep = ",",col.names = F, na = "")
-  print(files[i])
+  print(files[f])
 }
 
