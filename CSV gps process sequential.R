@@ -5,9 +5,10 @@
 ##get all csv in working directory
 files <- dir(getwd(), pattern = '\\.csv', full.names = TRUE)
 
-##csv template
+##csv template for trackpoints
 edf <- cbind("id","lat","lon","alt","speed","time_posix","time_posix_sec","timestamp","trajnum","seq","timestep")
 write.table(edf,file="processed/moves.csv", sep = ",", col.names = F, na = "", row.names = F)
+
 
 #initialize trajectory
 trajnum=0
