@@ -9,7 +9,6 @@ files <- dir(getwd(), pattern = '\\.csv', full.names = TRUE)
 edf <- cbind("id","lat","lon","alt","speed","time_posix","time_posix_sec","timestamp","trajnum","seq","timestep")
 write.table(edf,file="processed/moves.csv", sep = ",", col.names = F, na = "", row.names = F)
 
-
 #initialize trajectory
 trajnum=0
 
@@ -34,6 +33,7 @@ for (f in seq_along(files))  {
   mydata[1,"trajnum"] <- trajnum
   mydata[1,"seq"] <- seq
   for (i in registros){
+
     if (i>1){
       timestep <- mydata[i,"time_posix_sec"] - mydata[i-1,"time_posix_sec"]
       if(timestep>300){
