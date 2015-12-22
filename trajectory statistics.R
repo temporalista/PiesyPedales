@@ -21,7 +21,10 @@ traj_sum[,c("lat_ori","lon_ori", "lat_des","lon_des")]  <- c(
   mydata[, .SD[c(1)],by=trajnum]$lat,
   mydata[, .SD[c(1)],by=trajnum]$lon,
   mydata[, .SD[c(.N)],by=trajnum]$lat,
-  mydata[, .SD[c(.N)],by=trajnum]$lat)
-
+  mydata[, .SD[c(.N)],by=trajnum]$lon)
 
 write.csv(traj_sum,file="processed/trajectories.csv")
+
+traj_lines <- mydata[, .SD[c(1,.N)], .SDcols=c("lat","lon","seq","timestamp"), by=trajnum]
+write.csv(traj_lines,file="processed/traj_lines.csv")
+
