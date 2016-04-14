@@ -9,22 +9,28 @@ multiloader <- function(path) {
   do.call(rbind, tables)
 }
 
-setwd("/Volumes/MacData/Geo/piesypedales/EXP2_data/originales")
+setwd("/Volumes/Mac Data/Geo/piesypedales/EXP2_data/originales")
 
+##create df with data and rearrange & rename columns
 mydata <- multiloader(getwd())
+##subset rows with data
+mydata <- mydata[which(as.numeric(mydata$V5)>0),1:5]
 
-mydata <- mydata[-(1:2),1:5]
+
 colnames(mydata) <- c("lat","lon","alt","speed","time_posix")
 cols = c("lat","lon","alt","speed", "time_posix")    
-mydata[,cols]  <-  apply(mydata[,cols], 2, function(x) as.numeric(as.character(x)))
-mydata["timestep"]=""
-mydata["trajnum"]=""
-mydata["seq"]
+mydata[,cols]  <-  apply(mydata[,cols], 2, function(x) as.numeric(x))
 
 #convert POSIX time
 mydata$time_posix_sec <- as.numeric(mydata$time_posix) / 1000
 mydata$timestamp <- as.POSIXct(mydata$time_posix_sec, origin="1970-01-01", tz="GMT+5")
 
+#new columns
+mydata["timestep"]=""
+mydata["trajnum"]=""
+mydata["seq"]=""
+
+mydata <- mydata[order(mydata$time_posix_sec),]
 
 str(mydata)
 
@@ -38,6 +44,7 @@ registros <- c(2:nrow(mydata))
 trajnum=1
 seq=1
 mydata[1,"trajnum"] <- trajnum
+mydata[1,"seq"] <- seq
 for (i in registros){
     timestep <- mydata[i,"time_posix_sec"] - mydata[i-1,"time_posix_sec"]
     if(timestep>300){
@@ -54,4 +61,4 @@ for (i in registros){
 
 View(mydata[1000:2000,])
 #save resulting csv
-write.csv(mydata,file="processed/moves.csv")
+write.csv(mydata,file="processed/moves1.csv")
