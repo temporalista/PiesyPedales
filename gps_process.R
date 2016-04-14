@@ -1,6 +1,6 @@
 
 
-packages <- c("XML","lubridate", "raster", "sp")
+packages <- c("XML","rgdal","lubridate", "raster", "sp")
 
 if (length(setdiff(packages, rownames(installed.packages()))) > 0) {
   install.packages(setdiff(packages, rownames(installed.packages())))  
@@ -20,13 +20,13 @@ shift.vec <- function (vec, shift) {
 
 
 #leer archivo gps
-gpsfile <- "P0091551523_2.gpx"
+gpsfile <- "15101603.gpx"
 layers <- ogrListLayers(gpsfile)
 gpsdata <- readOGR(gpsfile, layer=layers[5])
 
-#agregar tiempo en formato tiempo
-gpsdata$temp<-substr(gpsdata$time, 12, 19)
-gpsdata$tiempo<-chron(times=gpsdata$temp)
+# #agregar tiempo en formato tiempo
+# gpsdata$temp<-substr(gpsdata$time, 12, 19)
+# gpsdata$tiempo<-chron(times=gpsdata$temp)
 
 trackids <- gpsdata$track_fid
 segmentids <- gpsdata$track_seg_id
@@ -53,6 +53,8 @@ gps_df$dist <- apply(gps_df, 1, FUN = function (row) {
                 lonlat = T)
 })
 
+
+
 # Transform the column ‘time’ so that R knows how to interpret it.
 gps_df$time <- strptime(gps_df$time, format = "%Y/%m/%d %H:%M:%S")
 # Shift the time vector, too.
@@ -66,7 +68,7 @@ gps_df$speed.m.per.sec <- gps_df$dist / gps_df$timestep
 gps_df$speed.km.per.h <- gps_df$speed.m.per.sec * 3.6
 gps_df$speed.km.per.h <- ifelse(is.na(gps_df$speed.km.per.h), 0, gps_df$speed.km.per.h)
 
-gps_tr <- gps_df[gps_df$trackid==22,]
+gps_tr <- gps_df[gps_df$trackid==0,]
 
 # Plot elevations and smoother
 gps_tr$lowess.ele <- lowess(gps_tr$ele, f = 0.1)$y
@@ -103,3 +105,4 @@ gps_tr <- gps_tr[gps_tr$ele>2000,]
 
 coordinates(gps_tr) = ~lon+lat
 spplot(gps_tr["dist"], type="l")
+

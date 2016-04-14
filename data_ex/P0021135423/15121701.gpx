@@ -1,0 +1,3630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" creator="Polar WebSync 2.4 - www.polar.fi" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <time>2015-12-17T18:42:16Z</time>
+  <trk>
+    <name>exercise</name>
+    <trkseg>
+      <trkpt lat="-2.891805000" lon="-79.019993333">
+        <time>2015-12-17T18:44:30Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891811667" lon="-79.019931667">
+        <time>2015-12-17T18:44:31Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891815000" lon="-79.019908333">
+        <time>2015-12-17T18:44:32Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891825000" lon="-79.019848333">
+        <time>2015-12-17T18:44:33Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891835000" lon="-79.019788333">
+        <time>2015-12-17T18:44:34Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891845000" lon="-79.019728333">
+        <time>2015-12-17T18:44:35Z</time>
+        <fix>2d</fix>
+        <sat>5</sat>
+      </trkpt>
+      <trkpt lat="-2.891855000" lon="-79.019668333">
+        <time>2015-12-17T18:44:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891863333" lon="-79.019610000">
+        <time>2015-12-17T18:44:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891873333" lon="-79.019550000">
+        <time>2015-12-17T18:44:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891883333" lon="-79.019490000">
+        <time>2015-12-17T18:44:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891893333" lon="-79.019430000">
+        <time>2015-12-17T18:44:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891903333" lon="-79.019370000">
+        <time>2015-12-17T18:44:41Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891913333" lon="-79.019310000">
+        <time>2015-12-17T18:44:42Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891923333" lon="-79.019251667">
+        <time>2015-12-17T18:44:43Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891933333" lon="-79.019191667">
+        <time>2015-12-17T18:44:44Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891943333" lon="-79.019133333">
+        <time>2015-12-17T18:44:45Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.891953333" lon="-79.019076667">
+        <time>2015-12-17T18:44:46Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.891961667" lon="-79.019023333">
+        <time>2015-12-17T18:44:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891970000" lon="-79.018980000">
+        <time>2015-12-17T18:44:48Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891978333" lon="-79.018946667">
+        <time>2015-12-17T18:44:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891985000" lon="-79.018923333">
+        <time>2015-12-17T18:44:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.891991667" lon="-79.018903333">
+        <time>2015-12-17T18:44:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892000000" lon="-79.018890000">
+        <time>2015-12-17T18:44:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892003333" lon="-79.018881667">
+        <time>2015-12-17T18:44:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018875000">
+        <time>2015-12-17T18:44:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018870000">
+        <time>2015-12-17T18:44:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018870000">
+        <time>2015-12-17T18:44:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018868333">
+        <time>2015-12-17T18:44:57Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018866667">
+        <time>2015-12-17T18:44:58Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018866667">
+        <time>2015-12-17T18:44:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018865000">
+        <time>2015-12-17T18:45:00Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018863333">
+        <time>2015-12-17T18:45:01Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018863333">
+        <time>2015-12-17T18:45:02Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018861667">
+        <time>2015-12-17T18:45:03Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018856667">
+        <time>2015-12-17T18:45:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018850000">
+        <time>2015-12-17T18:45:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018846667">
+        <time>2015-12-17T18:45:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018845000">
+        <time>2015-12-17T18:45:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018843333">
+        <time>2015-12-17T18:45:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892013333" lon="-79.018841667">
+        <time>2015-12-17T18:45:09Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018841667">
+        <time>2015-12-17T18:45:10Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:11Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:12Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:14Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018840000">
+        <time>2015-12-17T18:45:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018838333">
+        <time>2015-12-17T18:45:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018838333">
+        <time>2015-12-17T18:45:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018838333">
+        <time>2015-12-17T18:45:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018838333">
+        <time>2015-12-17T18:45:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018840000">
+        <time>2015-12-17T18:45:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018841667">
+        <time>2015-12-17T18:45:22Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018843333">
+        <time>2015-12-17T18:45:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018843333">
+        <time>2015-12-17T18:45:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018845000">
+        <time>2015-12-17T18:45:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018846667">
+        <time>2015-12-17T18:45:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018846667">
+        <time>2015-12-17T18:45:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018846667">
+        <time>2015-12-17T18:45:28Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892006667" lon="-79.018843333">
+        <time>2015-12-17T18:45:29Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018828333">
+        <time>2015-12-17T18:45:30Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892015000" lon="-79.018813333">
+        <time>2015-12-17T18:45:31Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892018333" lon="-79.018791667">
+        <time>2015-12-17T18:45:32Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892016667" lon="-79.018768333">
+        <time>2015-12-17T18:45:33Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892015000" lon="-79.018743333">
+        <time>2015-12-17T18:45:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892011667" lon="-79.018710000">
+        <time>2015-12-17T18:45:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892008333" lon="-79.018676667">
+        <time>2015-12-17T18:45:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892010000" lon="-79.018646667">
+        <time>2015-12-17T18:45:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892013333" lon="-79.018610000">
+        <time>2015-12-17T18:45:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892018333" lon="-79.018575000">
+        <time>2015-12-17T18:45:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892021667" lon="-79.018538333">
+        <time>2015-12-17T18:45:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892028333" lon="-79.018496667">
+        <time>2015-12-17T18:45:41Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892038333" lon="-79.018455000">
+        <time>2015-12-17T18:45:42Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892045000" lon="-79.018411667">
+        <time>2015-12-17T18:45:43Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892051667" lon="-79.018370000">
+        <time>2015-12-17T18:45:44Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892058333" lon="-79.018326667">
+        <time>2015-12-17T18:45:45Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892063333" lon="-79.018283333">
+        <time>2015-12-17T18:45:46Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892073333" lon="-79.018240000">
+        <time>2015-12-17T18:45:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892085000" lon="-79.018198333">
+        <time>2015-12-17T18:45:48Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892095000" lon="-79.018158333">
+        <time>2015-12-17T18:45:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892105000" lon="-79.018118333">
+        <time>2015-12-17T18:45:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892113333" lon="-79.018078333">
+        <time>2015-12-17T18:45:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892121667" lon="-79.018036667">
+        <time>2015-12-17T18:45:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892128333" lon="-79.017995000">
+        <time>2015-12-17T18:45:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892135000" lon="-79.017956667">
+        <time>2015-12-17T18:45:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892140000" lon="-79.017916667">
+        <time>2015-12-17T18:45:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892145000" lon="-79.017876667">
+        <time>2015-12-17T18:45:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892151667" lon="-79.017836667">
+        <time>2015-12-17T18:45:57Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892163333" lon="-79.017800000">
+        <time>2015-12-17T18:45:58Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892175000" lon="-79.017763333">
+        <time>2015-12-17T18:45:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892185000" lon="-79.017726667">
+        <time>2015-12-17T18:46:00Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892193333" lon="-79.017693333">
+        <time>2015-12-17T18:46:01Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892203333" lon="-79.017660000">
+        <time>2015-12-17T18:46:02Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892213333" lon="-79.017628333">
+        <time>2015-12-17T18:46:03Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892225000" lon="-79.017595000">
+        <time>2015-12-17T18:46:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892233333" lon="-79.017560000">
+        <time>2015-12-17T18:46:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892241667" lon="-79.017525000">
+        <time>2015-12-17T18:46:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892251667" lon="-79.017491667">
+        <time>2015-12-17T18:46:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892260000" lon="-79.017456667">
+        <time>2015-12-17T18:46:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892270000" lon="-79.017421667">
+        <time>2015-12-17T18:46:09Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892278333" lon="-79.017386667">
+        <time>2015-12-17T18:46:10Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892286667" lon="-79.017348333">
+        <time>2015-12-17T18:46:11Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892296667" lon="-79.017313333">
+        <time>2015-12-17T18:46:12Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892308333" lon="-79.017276667">
+        <time>2015-12-17T18:46:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892320000" lon="-79.017243333">
+        <time>2015-12-17T18:46:14Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892330000" lon="-79.017206667">
+        <time>2015-12-17T18:46:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892340000" lon="-79.017171667">
+        <time>2015-12-17T18:46:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892351667" lon="-79.017135000">
+        <time>2015-12-17T18:46:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892361667" lon="-79.017100000">
+        <time>2015-12-17T18:46:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892373333" lon="-79.017065000">
+        <time>2015-12-17T18:46:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892385000" lon="-79.017028333">
+        <time>2015-12-17T18:46:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892393333" lon="-79.016991667">
+        <time>2015-12-17T18:46:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892403333" lon="-79.016953333">
+        <time>2015-12-17T18:46:22Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892413333" lon="-79.016916667">
+        <time>2015-12-17T18:46:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892425000" lon="-79.016878333">
+        <time>2015-12-17T18:46:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892436667" lon="-79.016841667">
+        <time>2015-12-17T18:46:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892450000" lon="-79.016805000">
+        <time>2015-12-17T18:46:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892461667" lon="-79.016770000">
+        <time>2015-12-17T18:46:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892471667" lon="-79.016735000">
+        <time>2015-12-17T18:46:28Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892483333" lon="-79.016700000">
+        <time>2015-12-17T18:46:29Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892493333" lon="-79.016665000">
+        <time>2015-12-17T18:46:30Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892506667" lon="-79.016631667">
+        <time>2015-12-17T18:46:31Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892516667" lon="-79.016596667">
+        <time>2015-12-17T18:46:32Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892528333" lon="-79.016563333">
+        <time>2015-12-17T18:46:33Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892536667" lon="-79.016530000">
+        <time>2015-12-17T18:46:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892548333" lon="-79.016496667">
+        <time>2015-12-17T18:46:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892561667" lon="-79.016465000">
+        <time>2015-12-17T18:46:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892573333" lon="-79.016435000">
+        <time>2015-12-17T18:46:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892586667" lon="-79.016403333">
+        <time>2015-12-17T18:46:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892595000" lon="-79.016371667">
+        <time>2015-12-17T18:46:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892606667" lon="-79.016340000">
+        <time>2015-12-17T18:46:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892618333" lon="-79.016308333">
+        <time>2015-12-17T18:46:41Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892630000" lon="-79.016273333">
+        <time>2015-12-17T18:46:42Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892643333" lon="-79.016240000">
+        <time>2015-12-17T18:46:43Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892658333" lon="-79.016208333">
+        <time>2015-12-17T18:46:44Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892671667" lon="-79.016175000">
+        <time>2015-12-17T18:46:45Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892683333" lon="-79.016140000">
+        <time>2015-12-17T18:46:46Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892695000" lon="-79.016106667">
+        <time>2015-12-17T18:46:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892708333" lon="-79.016073333">
+        <time>2015-12-17T18:46:48Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.892720000" lon="-79.016040000">
+        <time>2015-12-17T18:46:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892733333" lon="-79.016008333">
+        <time>2015-12-17T18:46:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892743333" lon="-79.015975000">
+        <time>2015-12-17T18:46:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892756667" lon="-79.015945000">
+        <time>2015-12-17T18:46:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892768333" lon="-79.015913333">
+        <time>2015-12-17T18:46:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892776667" lon="-79.015881667">
+        <time>2015-12-17T18:46:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892788333" lon="-79.015850000">
+        <time>2015-12-17T18:46:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892801667" lon="-79.015818333">
+        <time>2015-12-17T18:46:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892815000" lon="-79.015785000">
+        <time>2015-12-17T18:46:57Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892821667" lon="-79.015760000">
+        <time>2015-12-17T18:46:58Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892825000" lon="-79.015751667">
+        <time>2015-12-17T18:46:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892828333" lon="-79.015738333">
+        <time>2015-12-17T18:47:00Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892831667" lon="-79.015725000">
+        <time>2015-12-17T18:47:01Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892838333" lon="-79.015705000">
+        <time>2015-12-17T18:47:02Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892846667" lon="-79.015680000">
+        <time>2015-12-17T18:47:03Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892855000" lon="-79.015651667">
+        <time>2015-12-17T18:47:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892866667" lon="-79.015623333">
+        <time>2015-12-17T18:47:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892878333" lon="-79.015590000">
+        <time>2015-12-17T18:47:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892890000" lon="-79.015556667">
+        <time>2015-12-17T18:47:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892901667" lon="-79.015523333">
+        <time>2015-12-17T18:47:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892913333" lon="-79.015488333">
+        <time>2015-12-17T18:47:09Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892925000" lon="-79.015455000">
+        <time>2015-12-17T18:47:10Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892935000" lon="-79.015421667">
+        <time>2015-12-17T18:47:11Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892946667" lon="-79.015388333">
+        <time>2015-12-17T18:47:12Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892961667" lon="-79.015358333">
+        <time>2015-12-17T18:47:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.892985000" lon="-79.015336667">
+        <time>2015-12-17T18:47:14Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893011667" lon="-79.015326667">
+        <time>2015-12-17T18:47:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893038333" lon="-79.015315000">
+        <time>2015-12-17T18:47:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893065000" lon="-79.015296667">
+        <time>2015-12-17T18:47:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893086667" lon="-79.015273333">
+        <time>2015-12-17T18:47:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893103333" lon="-79.015250000">
+        <time>2015-12-17T18:47:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893115000" lon="-79.015220000">
+        <time>2015-12-17T18:47:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893126667" lon="-79.015186667">
+        <time>2015-12-17T18:47:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893140000" lon="-79.015155000">
+        <time>2015-12-17T18:47:22Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893151667" lon="-79.015118333">
+        <time>2015-12-17T18:47:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893165000" lon="-79.015080000">
+        <time>2015-12-17T18:47:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893178333" lon="-79.015041667">
+        <time>2015-12-17T18:47:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893190000" lon="-79.015003333">
+        <time>2015-12-17T18:47:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893205000" lon="-79.014966667">
+        <time>2015-12-17T18:47:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893218333" lon="-79.014931667">
+        <time>2015-12-17T18:47:28Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893230000" lon="-79.014896667">
+        <time>2015-12-17T18:47:29Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893243333" lon="-79.014861667">
+        <time>2015-12-17T18:47:30Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893260000" lon="-79.014826667">
+        <time>2015-12-17T18:47:31Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893271667" lon="-79.014790000">
+        <time>2015-12-17T18:47:32Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893286667" lon="-79.014755000">
+        <time>2015-12-17T18:47:33Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893300000" lon="-79.014716667">
+        <time>2015-12-17T18:47:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893315000" lon="-79.014678333">
+        <time>2015-12-17T18:47:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893330000" lon="-79.014638333">
+        <time>2015-12-17T18:47:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893346667" lon="-79.014601667">
+        <time>2015-12-17T18:47:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893361667" lon="-79.014563333">
+        <time>2015-12-17T18:47:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893378333" lon="-79.014523333">
+        <time>2015-12-17T18:47:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893393333" lon="-79.014483333">
+        <time>2015-12-17T18:47:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893410000" lon="-79.014443333">
+        <time>2015-12-17T18:47:41Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893421667" lon="-79.014403333">
+        <time>2015-12-17T18:47:42Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893435000" lon="-79.014363333">
+        <time>2015-12-17T18:47:43Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893451667" lon="-79.014325000">
+        <time>2015-12-17T18:47:44Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893468333" lon="-79.014286667">
+        <time>2015-12-17T18:47:45Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893483333" lon="-79.014250000">
+        <time>2015-12-17T18:47:46Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893496667" lon="-79.014215000">
+        <time>2015-12-17T18:47:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893503333" lon="-79.014176667">
+        <time>2015-12-17T18:47:48Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893513333" lon="-79.014141667">
+        <time>2015-12-17T18:47:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893523333" lon="-79.014105000">
+        <time>2015-12-17T18:47:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893538333" lon="-79.014066667">
+        <time>2015-12-17T18:47:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893553333" lon="-79.014031667">
+        <time>2015-12-17T18:47:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893568333" lon="-79.013998333">
+        <time>2015-12-17T18:47:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893580000" lon="-79.013965000">
+        <time>2015-12-17T18:47:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893591667" lon="-79.013930000">
+        <time>2015-12-17T18:47:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893605000" lon="-79.013898333">
+        <time>2015-12-17T18:47:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893621667" lon="-79.013868333">
+        <time>2015-12-17T18:47:57Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893633333" lon="-79.013835000">
+        <time>2015-12-17T18:47:58Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893646667" lon="-79.013803333">
+        <time>2015-12-17T18:47:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893660000" lon="-79.013775000">
+        <time>2015-12-17T18:48:00Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893676667" lon="-79.013755000">
+        <time>2015-12-17T18:48:01Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893688333" lon="-79.013738333">
+        <time>2015-12-17T18:48:02Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893695000" lon="-79.013731667">
+        <time>2015-12-17T18:48:03Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893698333" lon="-79.013725000">
+        <time>2015-12-17T18:48:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893700000" lon="-79.013716667">
+        <time>2015-12-17T18:48:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893700000" lon="-79.013705000">
+        <time>2015-12-17T18:48:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893695000" lon="-79.013695000">
+        <time>2015-12-17T18:48:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893686667" lon="-79.013681667">
+        <time>2015-12-17T18:48:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893678333" lon="-79.013668333">
+        <time>2015-12-17T18:48:09Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893668333" lon="-79.013661667">
+        <time>2015-12-17T18:48:10Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893665000" lon="-79.013656667">
+        <time>2015-12-17T18:48:11Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893663333" lon="-79.013653333">
+        <time>2015-12-17T18:48:12Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893661667" lon="-79.013650000">
+        <time>2015-12-17T18:48:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893660000" lon="-79.013643333">
+        <time>2015-12-17T18:48:14Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893660000" lon="-79.013638333">
+        <time>2015-12-17T18:48:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893658333" lon="-79.013635000">
+        <time>2015-12-17T18:48:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893660000" lon="-79.013626667">
+        <time>2015-12-17T18:48:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893661667" lon="-79.013618333">
+        <time>2015-12-17T18:48:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893665000" lon="-79.013605000">
+        <time>2015-12-17T18:48:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893670000" lon="-79.013593333">
+        <time>2015-12-17T18:48:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893673333" lon="-79.013575000">
+        <time>2015-12-17T18:48:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893675000" lon="-79.013555000">
+        <time>2015-12-17T18:48:22Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893666667" lon="-79.013538333">
+        <time>2015-12-17T18:48:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893656667" lon="-79.013523333">
+        <time>2015-12-17T18:48:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893650000" lon="-79.013511667">
+        <time>2015-12-17T18:48:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893643333" lon="-79.013505000">
+        <time>2015-12-17T18:48:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893633333" lon="-79.013498333">
+        <time>2015-12-17T18:48:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893618333" lon="-79.013490000">
+        <time>2015-12-17T18:48:28Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893608333" lon="-79.013483333">
+        <time>2015-12-17T18:48:29Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893600000" lon="-79.013478333">
+        <time>2015-12-17T18:48:30Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893595000" lon="-79.013471667">
+        <time>2015-12-17T18:48:31Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.893586667" lon="-79.013463333">
+        <time>2015-12-17T18:48:32Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893580000" lon="-79.013451667">
+        <time>2015-12-17T18:48:33Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893578333" lon="-79.013436667">
+        <time>2015-12-17T18:48:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893581667" lon="-79.013418333">
+        <time>2015-12-17T18:48:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893591667" lon="-79.013393333">
+        <time>2015-12-17T18:48:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893598333" lon="-79.013363333">
+        <time>2015-12-17T18:48:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893606667" lon="-79.013331667">
+        <time>2015-12-17T18:48:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893618333" lon="-79.013296667">
+        <time>2015-12-17T18:48:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893630000" lon="-79.013263333">
+        <time>2015-12-17T18:48:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893643333" lon="-79.013226667">
+        <time>2015-12-17T18:48:41Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893653333" lon="-79.013185000">
+        <time>2015-12-17T18:48:42Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893665000" lon="-79.013145000">
+        <time>2015-12-17T18:48:43Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893676667" lon="-79.013106667">
+        <time>2015-12-17T18:48:44Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893688333" lon="-79.013070000">
+        <time>2015-12-17T18:48:45Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893701667" lon="-79.013038333">
+        <time>2015-12-17T18:48:46Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893708333" lon="-79.012998333">
+        <time>2015-12-17T18:48:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893716667" lon="-79.012961667">
+        <time>2015-12-17T18:48:48Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893723333" lon="-79.012925000">
+        <time>2015-12-17T18:48:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893730000" lon="-79.012888333">
+        <time>2015-12-17T18:48:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893740000" lon="-79.012856667">
+        <time>2015-12-17T18:48:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893746667" lon="-79.012828333">
+        <time>2015-12-17T18:48:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893753333" lon="-79.012798333">
+        <time>2015-12-17T18:48:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893758333" lon="-79.012768333">
+        <time>2015-12-17T18:48:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893765000" lon="-79.012740000">
+        <time>2015-12-17T18:48:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893773333" lon="-79.012713333">
+        <time>2015-12-17T18:48:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893785000" lon="-79.012690000">
+        <time>2015-12-17T18:48:57Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893806667" lon="-79.012673333">
+        <time>2015-12-17T18:48:58Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893828333" lon="-79.012663333">
+        <time>2015-12-17T18:48:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.893855000" lon="-79.012665000">
+        <time>2015-12-17T18:49:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.893881667" lon="-79.012670000">
+        <time>2015-12-17T18:49:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.893910000" lon="-79.012673333">
+        <time>2015-12-17T18:49:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.893938333" lon="-79.012678333">
+        <time>2015-12-17T18:49:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.893970000" lon="-79.012683333">
+        <time>2015-12-17T18:49:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894000000" lon="-79.012691667">
+        <time>2015-12-17T18:49:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894026667" lon="-79.012700000">
+        <time>2015-12-17T18:49:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894050000" lon="-79.012710000">
+        <time>2015-12-17T18:49:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894073333" lon="-79.012718333">
+        <time>2015-12-17T18:49:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894093333" lon="-79.012725000">
+        <time>2015-12-17T18:49:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894106667" lon="-79.012731667">
+        <time>2015-12-17T18:49:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894115000" lon="-79.012735000">
+        <time>2015-12-17T18:49:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894113333" lon="-79.012733333">
+        <time>2015-12-17T18:49:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894111667" lon="-79.012731667">
+        <time>2015-12-17T18:49:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894113333" lon="-79.012731667">
+        <time>2015-12-17T18:49:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894115000" lon="-79.012731667">
+        <time>2015-12-17T18:49:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894115000" lon="-79.012731667">
+        <time>2015-12-17T18:49:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894116667" lon="-79.012730000">
+        <time>2015-12-17T18:49:17Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894116667" lon="-79.012731667">
+        <time>2015-12-17T18:49:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894118333" lon="-79.012731667">
+        <time>2015-12-17T18:49:19Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894126667" lon="-79.012733333">
+        <time>2015-12-17T18:49:20Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894138333" lon="-79.012738333">
+        <time>2015-12-17T18:49:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894150000" lon="-79.012741667">
+        <time>2015-12-17T18:49:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894168333" lon="-79.012743333">
+        <time>2015-12-17T18:49:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894193333" lon="-79.012743333">
+        <time>2015-12-17T18:49:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894220000" lon="-79.012745000">
+        <time>2015-12-17T18:49:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894248333" lon="-79.012746667">
+        <time>2015-12-17T18:49:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894275000" lon="-79.012751667">
+        <time>2015-12-17T18:49:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894301667" lon="-79.012753333">
+        <time>2015-12-17T18:49:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894333333" lon="-79.012761667">
+        <time>2015-12-17T18:49:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894368333" lon="-79.012771667">
+        <time>2015-12-17T18:49:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894408333" lon="-79.012785000">
+        <time>2015-12-17T18:49:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894448333" lon="-79.012796667">
+        <time>2015-12-17T18:49:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894491667" lon="-79.012808333">
+        <time>2015-12-17T18:49:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894536667" lon="-79.012816667">
+        <time>2015-12-17T18:49:34Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894583333" lon="-79.012825000">
+        <time>2015-12-17T18:49:35Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894628333" lon="-79.012835000">
+        <time>2015-12-17T18:49:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894666667" lon="-79.012843333">
+        <time>2015-12-17T18:49:37Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894701667" lon="-79.012848333">
+        <time>2015-12-17T18:49:38Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894728333" lon="-79.012855000">
+        <time>2015-12-17T18:49:39Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894741667" lon="-79.012858333">
+        <time>2015-12-17T18:49:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894745000" lon="-79.012860000">
+        <time>2015-12-17T18:49:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894746667" lon="-79.012858333">
+        <time>2015-12-17T18:49:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894750000" lon="-79.012858333">
+        <time>2015-12-17T18:49:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894750000" lon="-79.012858333">
+        <time>2015-12-17T18:49:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894755000" lon="-79.012858333">
+        <time>2015-12-17T18:49:45Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894768333" lon="-79.012856667">
+        <time>2015-12-17T18:49:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894788333" lon="-79.012856667">
+        <time>2015-12-17T18:49:47Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894815000" lon="-79.012861667">
+        <time>2015-12-17T18:49:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894850000" lon="-79.012868333">
+        <time>2015-12-17T18:49:49Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894886667" lon="-79.012876667">
+        <time>2015-12-17T18:49:50Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894930000" lon="-79.012885000">
+        <time>2015-12-17T18:49:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.894976667" lon="-79.012893333">
+        <time>2015-12-17T18:49:52Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895025000" lon="-79.012901667">
+        <time>2015-12-17T18:49:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895073333" lon="-79.012916667">
+        <time>2015-12-17T18:49:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895121667" lon="-79.012930000">
+        <time>2015-12-17T18:49:55Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895170000" lon="-79.012941667">
+        <time>2015-12-17T18:49:56Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895215000" lon="-79.012951667">
+        <time>2015-12-17T18:49:57Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895253333" lon="-79.012958333">
+        <time>2015-12-17T18:49:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895278333" lon="-79.012961667">
+        <time>2015-12-17T18:49:59Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895291667" lon="-79.012965000">
+        <time>2015-12-17T18:50:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895298333" lon="-79.012963333">
+        <time>2015-12-17T18:50:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895301667" lon="-79.012963333">
+        <time>2015-12-17T18:50:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895303333" lon="-79.012963333">
+        <time>2015-12-17T18:50:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895305000" lon="-79.012963333">
+        <time>2015-12-17T18:50:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895315000" lon="-79.012958333">
+        <time>2015-12-17T18:50:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895326667" lon="-79.012951667">
+        <time>2015-12-17T18:50:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895336667" lon="-79.012943333">
+        <time>2015-12-17T18:50:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895351667" lon="-79.012931667">
+        <time>2015-12-17T18:50:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895371667" lon="-79.012916667">
+        <time>2015-12-17T18:50:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895390000" lon="-79.012893333">
+        <time>2015-12-17T18:50:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895408333" lon="-79.012866667">
+        <time>2015-12-17T18:50:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895425000" lon="-79.012838333">
+        <time>2015-12-17T18:50:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895443333" lon="-79.012813333">
+        <time>2015-12-17T18:50:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895465000" lon="-79.012783333">
+        <time>2015-12-17T18:50:14Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895488333" lon="-79.012750000">
+        <time>2015-12-17T18:50:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895511667" lon="-79.012715000">
+        <time>2015-12-17T18:50:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895538333" lon="-79.012678333">
+        <time>2015-12-17T18:50:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895563333" lon="-79.012641667">
+        <time>2015-12-17T18:50:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895590000" lon="-79.012603333">
+        <time>2015-12-17T18:50:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.895616667" lon="-79.012565000">
+        <time>2015-12-17T18:50:20Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895643333" lon="-79.012523333">
+        <time>2015-12-17T18:50:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895670000" lon="-79.012481667">
+        <time>2015-12-17T18:50:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895698333" lon="-79.012440000">
+        <time>2015-12-17T18:50:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895728333" lon="-79.012398333">
+        <time>2015-12-17T18:50:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895760000" lon="-79.012356667">
+        <time>2015-12-17T18:50:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895793333" lon="-79.012315000">
+        <time>2015-12-17T18:50:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895826667" lon="-79.012275000">
+        <time>2015-12-17T18:50:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895858333" lon="-79.012233333">
+        <time>2015-12-17T18:50:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895886667" lon="-79.012190000">
+        <time>2015-12-17T18:50:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895911667" lon="-79.012146667">
+        <time>2015-12-17T18:50:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895935000" lon="-79.012103333">
+        <time>2015-12-17T18:50:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895953333" lon="-79.012056667">
+        <time>2015-12-17T18:50:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895968333" lon="-79.012008333">
+        <time>2015-12-17T18:50:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895981667" lon="-79.011961667">
+        <time>2015-12-17T18:50:34Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.895998333" lon="-79.011915000">
+        <time>2015-12-17T18:50:35Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896011667" lon="-79.011865000">
+        <time>2015-12-17T18:50:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896025000" lon="-79.011815000">
+        <time>2015-12-17T18:50:37Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896038333" lon="-79.011765000">
+        <time>2015-12-17T18:50:38Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896053333" lon="-79.011715000">
+        <time>2015-12-17T18:50:39Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896068333" lon="-79.011665000">
+        <time>2015-12-17T18:50:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896080000" lon="-79.011615000">
+        <time>2015-12-17T18:50:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896091667" lon="-79.011565000">
+        <time>2015-12-17T18:50:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896101667" lon="-79.011515000">
+        <time>2015-12-17T18:50:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896115000" lon="-79.011468333">
+        <time>2015-12-17T18:50:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896126667" lon="-79.011421667">
+        <time>2015-12-17T18:50:45Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896140000" lon="-79.011376667">
+        <time>2015-12-17T18:50:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896150000" lon="-79.011333333">
+        <time>2015-12-17T18:50:47Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.896160000" lon="-79.011288333">
+        <time>2015-12-17T18:50:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896170000" lon="-79.011246667">
+        <time>2015-12-17T18:50:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.896181667" lon="-79.011205000">
+        <time>2015-12-17T18:50:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.896191667" lon="-79.011163333">
+        <time>2015-12-17T18:50:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896203333" lon="-79.011123333">
+        <time>2015-12-17T18:50:52Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896213333" lon="-79.011081667">
+        <time>2015-12-17T18:50:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896223333" lon="-79.011040000">
+        <time>2015-12-17T18:50:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896233333" lon="-79.010998333">
+        <time>2015-12-17T18:50:55Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896243333" lon="-79.010955000">
+        <time>2015-12-17T18:50:56Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896255000" lon="-79.010915000">
+        <time>2015-12-17T18:50:57Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896263333" lon="-79.010878333">
+        <time>2015-12-17T18:50:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896271667" lon="-79.010840000">
+        <time>2015-12-17T18:50:59Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896281667" lon="-79.010801667">
+        <time>2015-12-17T18:51:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896291667" lon="-79.010766667">
+        <time>2015-12-17T18:51:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896303333" lon="-79.010730000">
+        <time>2015-12-17T18:51:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896311667" lon="-79.010690000">
+        <time>2015-12-17T18:51:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896321667" lon="-79.010650000">
+        <time>2015-12-17T18:51:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896331667" lon="-79.010606667">
+        <time>2015-12-17T18:51:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896340000" lon="-79.010561667">
+        <time>2015-12-17T18:51:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896351667" lon="-79.010518333">
+        <time>2015-12-17T18:51:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896365000" lon="-79.010475000">
+        <time>2015-12-17T18:51:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896376667" lon="-79.010431667">
+        <time>2015-12-17T18:51:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896390000" lon="-79.010388333">
+        <time>2015-12-17T18:51:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896403333" lon="-79.010345000">
+        <time>2015-12-17T18:51:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896416667" lon="-79.010303333">
+        <time>2015-12-17T18:51:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896428333" lon="-79.010261667">
+        <time>2015-12-17T18:51:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896438333" lon="-79.010218333">
+        <time>2015-12-17T18:51:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896450000" lon="-79.010175000">
+        <time>2015-12-17T18:51:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896461667" lon="-79.010133333">
+        <time>2015-12-17T18:51:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896473333" lon="-79.010091667">
+        <time>2015-12-17T18:51:17Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896485000" lon="-79.010048333">
+        <time>2015-12-17T18:51:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896495000" lon="-79.010006667">
+        <time>2015-12-17T18:51:19Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896506667" lon="-79.009966667">
+        <time>2015-12-17T18:51:20Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896515000" lon="-79.009928333">
+        <time>2015-12-17T18:51:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896523333" lon="-79.009888333">
+        <time>2015-12-17T18:51:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896530000" lon="-79.009848333">
+        <time>2015-12-17T18:51:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896541667" lon="-79.009806667">
+        <time>2015-12-17T18:51:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896551667" lon="-79.009763333">
+        <time>2015-12-17T18:51:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896561667" lon="-79.009718333">
+        <time>2015-12-17T18:51:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896575000" lon="-79.009670000">
+        <time>2015-12-17T18:51:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896590000" lon="-79.009621667">
+        <time>2015-12-17T18:51:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896603333" lon="-79.009571667">
+        <time>2015-12-17T18:51:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896616667" lon="-79.009520000">
+        <time>2015-12-17T18:51:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896630000" lon="-79.009468333">
+        <time>2015-12-17T18:51:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896643333" lon="-79.009416667">
+        <time>2015-12-17T18:51:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896656667" lon="-79.009368333">
+        <time>2015-12-17T18:51:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896670000" lon="-79.009320000">
+        <time>2015-12-17T18:51:34Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896683333" lon="-79.009273333">
+        <time>2015-12-17T18:51:35Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896695000" lon="-79.009228333">
+        <time>2015-12-17T18:51:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896705000" lon="-79.009183333">
+        <time>2015-12-17T18:51:37Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896716667" lon="-79.009138333">
+        <time>2015-12-17T18:51:38Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896730000" lon="-79.009095000">
+        <time>2015-12-17T18:51:39Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896743333" lon="-79.009050000">
+        <time>2015-12-17T18:51:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896756667" lon="-79.009006667">
+        <time>2015-12-17T18:51:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896770000" lon="-79.008961667">
+        <time>2015-12-17T18:51:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896786667" lon="-79.008920000">
+        <time>2015-12-17T18:51:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896798333" lon="-79.008878333">
+        <time>2015-12-17T18:51:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896808333" lon="-79.008835000">
+        <time>2015-12-17T18:51:45Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896820000" lon="-79.008793333">
+        <time>2015-12-17T18:51:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896833333" lon="-79.008753333">
+        <time>2015-12-17T18:51:47Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896845000" lon="-79.008716667">
+        <time>2015-12-17T18:51:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896856667" lon="-79.008688333">
+        <time>2015-12-17T18:51:49Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896865000" lon="-79.008663333">
+        <time>2015-12-17T18:51:50Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896873333" lon="-79.008631667">
+        <time>2015-12-17T18:51:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896883333" lon="-79.008598333">
+        <time>2015-12-17T18:51:52Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896893333" lon="-79.008561667">
+        <time>2015-12-17T18:51:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896903333" lon="-79.008526667">
+        <time>2015-12-17T18:51:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896910000" lon="-79.008491667">
+        <time>2015-12-17T18:51:55Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896918333" lon="-79.008456667">
+        <time>2015-12-17T18:51:56Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896926667" lon="-79.008425000">
+        <time>2015-12-17T18:51:57Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896936667" lon="-79.008395000">
+        <time>2015-12-17T18:51:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896943333" lon="-79.008363333">
+        <time>2015-12-17T18:51:59Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896953333" lon="-79.008335000">
+        <time>2015-12-17T18:52:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896960000" lon="-79.008303333">
+        <time>2015-12-17T18:52:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896966667" lon="-79.008273333">
+        <time>2015-12-17T18:52:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896973333" lon="-79.008241667">
+        <time>2015-12-17T18:52:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896981667" lon="-79.008211667">
+        <time>2015-12-17T18:52:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896988333" lon="-79.008180000">
+        <time>2015-12-17T18:52:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.896995000" lon="-79.008150000">
+        <time>2015-12-17T18:52:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897001667" lon="-79.008121667">
+        <time>2015-12-17T18:52:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897006667" lon="-79.008096667">
+        <time>2015-12-17T18:52:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897010000" lon="-79.008073333">
+        <time>2015-12-17T18:52:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897013333" lon="-79.008055000">
+        <time>2015-12-17T18:52:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897015000" lon="-79.008045000">
+        <time>2015-12-17T18:52:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897015000" lon="-79.008040000">
+        <time>2015-12-17T18:52:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897015000" lon="-79.008038333">
+        <time>2015-12-17T18:52:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897015000" lon="-79.008036667">
+        <time>2015-12-17T18:52:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897013333" lon="-79.008035000">
+        <time>2015-12-17T18:52:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897013333" lon="-79.008033333">
+        <time>2015-12-17T18:52:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897013333" lon="-79.008035000">
+        <time>2015-12-17T18:52:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897011667" lon="-79.008031667">
+        <time>2015-12-17T18:52:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.008028333">
+        <time>2015-12-17T18:52:19Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.008026667">
+        <time>2015-12-17T18:52:20Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.008025000">
+        <time>2015-12-17T18:52:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.008021667">
+        <time>2015-12-17T18:52:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.008020000">
+        <time>2015-12-17T18:52:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897010000" lon="-79.008015000">
+        <time>2015-12-17T18:52:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897008333" lon="-79.007998333">
+        <time>2015-12-17T18:52:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897015000" lon="-79.007978333">
+        <time>2015-12-17T18:52:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897026667" lon="-79.007955000">
+        <time>2015-12-17T18:52:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897040000" lon="-79.007925000">
+        <time>2015-12-17T18:52:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897050000" lon="-79.007893333">
+        <time>2015-12-17T18:52:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897056667" lon="-79.007860000">
+        <time>2015-12-17T18:52:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897061667" lon="-79.007828333">
+        <time>2015-12-17T18:52:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897070000" lon="-79.007800000">
+        <time>2015-12-17T18:52:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897078333" lon="-79.007771667">
+        <time>2015-12-17T18:52:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897085000" lon="-79.007745000">
+        <time>2015-12-17T18:52:34Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897090000" lon="-79.007723333">
+        <time>2015-12-17T18:52:35Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897091667" lon="-79.007706667">
+        <time>2015-12-17T18:52:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897091667" lon="-79.007703333">
+        <time>2015-12-17T18:52:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897090000" lon="-79.007701667">
+        <time>2015-12-17T18:52:38Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897093333" lon="-79.007696667">
+        <time>2015-12-17T18:52:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897096667" lon="-79.007685000">
+        <time>2015-12-17T18:52:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897100000" lon="-79.007671667">
+        <time>2015-12-17T18:52:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897103333" lon="-79.007651667">
+        <time>2015-12-17T18:52:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897108333" lon="-79.007630000">
+        <time>2015-12-17T18:52:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897115000" lon="-79.007608333">
+        <time>2015-12-17T18:52:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897121667" lon="-79.007583333">
+        <time>2015-12-17T18:52:45Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897130000" lon="-79.007555000">
+        <time>2015-12-17T18:52:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897138333" lon="-79.007526667">
+        <time>2015-12-17T18:52:47Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897146667" lon="-79.007501667">
+        <time>2015-12-17T18:52:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897150000" lon="-79.007486667">
+        <time>2015-12-17T18:52:49Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897153333" lon="-79.007481667">
+        <time>2015-12-17T18:52:50Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897156667" lon="-79.007468333">
+        <time>2015-12-17T18:52:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897163333" lon="-79.007451667">
+        <time>2015-12-17T18:52:52Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897170000" lon="-79.007430000">
+        <time>2015-12-17T18:52:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897181667" lon="-79.007408333">
+        <time>2015-12-17T18:52:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897186667" lon="-79.007390000">
+        <time>2015-12-17T18:52:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897188333" lon="-79.007383333">
+        <time>2015-12-17T18:52:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897188333" lon="-79.007380000">
+        <time>2015-12-17T18:52:57Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897185000" lon="-79.007371667">
+        <time>2015-12-17T18:52:58Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897185000" lon="-79.007356667">
+        <time>2015-12-17T18:52:59Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897188333" lon="-79.007341667">
+        <time>2015-12-17T18:53:00Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897191667" lon="-79.007326667">
+        <time>2015-12-17T18:53:01Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897196667" lon="-79.007310000">
+        <time>2015-12-17T18:53:02Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897201667" lon="-79.007290000">
+        <time>2015-12-17T18:53:03Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897208333" lon="-79.007268333">
+        <time>2015-12-17T18:53:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897216667" lon="-79.007243333">
+        <time>2015-12-17T18:53:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897225000" lon="-79.007218333">
+        <time>2015-12-17T18:53:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897231667" lon="-79.007190000">
+        <time>2015-12-17T18:53:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897238333" lon="-79.007165000">
+        <time>2015-12-17T18:53:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897243333" lon="-79.007145000">
+        <time>2015-12-17T18:53:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897251667" lon="-79.007123333">
+        <time>2015-12-17T18:53:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897260000" lon="-79.007100000">
+        <time>2015-12-17T18:53:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897268333" lon="-79.007075000">
+        <time>2015-12-17T18:53:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897276667" lon="-79.007050000">
+        <time>2015-12-17T18:53:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897285000" lon="-79.007025000">
+        <time>2015-12-17T18:53:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897290000" lon="-79.007006667">
+        <time>2015-12-17T18:53:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897293333" lon="-79.006995000">
+        <time>2015-12-17T18:53:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006988333">
+        <time>2015-12-17T18:53:17Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006983333">
+        <time>2015-12-17T18:53:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006981667">
+        <time>2015-12-17T18:53:19Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006980000">
+        <time>2015-12-17T18:53:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006978333">
+        <time>2015-12-17T18:53:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897295000" lon="-79.006976667">
+        <time>2015-12-17T18:53:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897293333" lon="-79.006975000">
+        <time>2015-12-17T18:53:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897291667" lon="-79.006971667">
+        <time>2015-12-17T18:53:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897291667" lon="-79.006968333">
+        <time>2015-12-17T18:53:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897291667" lon="-79.006966667">
+        <time>2015-12-17T18:53:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897290000" lon="-79.006965000">
+        <time>2015-12-17T18:53:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897290000" lon="-79.006963333">
+        <time>2015-12-17T18:53:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897290000" lon="-79.006963333">
+        <time>2015-12-17T18:53:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897288333" lon="-79.006960000">
+        <time>2015-12-17T18:53:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897290000" lon="-79.006958333">
+        <time>2015-12-17T18:53:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897288333" lon="-79.006956667">
+        <time>2015-12-17T18:53:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897288333" lon="-79.006956667">
+        <time>2015-12-17T18:53:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897288333" lon="-79.006955000">
+        <time>2015-12-17T18:53:34Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897286667" lon="-79.006955000">
+        <time>2015-12-17T18:53:35Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897286667" lon="-79.006955000">
+        <time>2015-12-17T18:53:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897286667" lon="-79.006955000">
+        <time>2015-12-17T18:53:37Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897285000" lon="-79.006953333">
+        <time>2015-12-17T18:53:38Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897285000" lon="-79.006953333">
+        <time>2015-12-17T18:53:39Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897283333" lon="-79.006953333">
+        <time>2015-12-17T18:53:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897283333" lon="-79.006953333">
+        <time>2015-12-17T18:53:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897283333" lon="-79.006953333">
+        <time>2015-12-17T18:53:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897283333" lon="-79.006953333">
+        <time>2015-12-17T18:53:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897281667" lon="-79.006953333">
+        <time>2015-12-17T18:53:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897281667" lon="-79.006953333">
+        <time>2015-12-17T18:53:45Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897280000" lon="-79.006953333">
+        <time>2015-12-17T18:53:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897280000" lon="-79.006953333">
+        <time>2015-12-17T18:53:47Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897280000" lon="-79.006953333">
+        <time>2015-12-17T18:53:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897280000" lon="-79.006953333">
+        <time>2015-12-17T18:53:49Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897281667" lon="-79.006953333">
+        <time>2015-12-17T18:53:50Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897283333" lon="-79.006941667">
+        <time>2015-12-17T18:53:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897286667" lon="-79.006926667">
+        <time>2015-12-17T18:53:52Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897291667" lon="-79.006903333">
+        <time>2015-12-17T18:53:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897298333" lon="-79.006875000">
+        <time>2015-12-17T18:53:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897303333" lon="-79.006843333">
+        <time>2015-12-17T18:53:55Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897311667" lon="-79.006815000">
+        <time>2015-12-17T18:53:56Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897320000" lon="-79.006791667">
+        <time>2015-12-17T18:53:57Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897326667" lon="-79.006768333">
+        <time>2015-12-17T18:53:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897331667" lon="-79.006750000">
+        <time>2015-12-17T18:53:59Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897336667" lon="-79.006733333">
+        <time>2015-12-17T18:54:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897340000" lon="-79.006720000">
+        <time>2015-12-17T18:54:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897346667" lon="-79.006705000">
+        <time>2015-12-17T18:54:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897351667" lon="-79.006688333">
+        <time>2015-12-17T18:54:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897358333" lon="-79.006671667">
+        <time>2015-12-17T18:54:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897365000" lon="-79.006656667">
+        <time>2015-12-17T18:54:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897375000" lon="-79.006643333">
+        <time>2015-12-17T18:54:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897383333" lon="-79.006623333">
+        <time>2015-12-17T18:54:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897391667" lon="-79.006598333">
+        <time>2015-12-17T18:54:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897398333" lon="-79.006571667">
+        <time>2015-12-17T18:54:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897406667" lon="-79.006548333">
+        <time>2015-12-17T18:54:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897413333" lon="-79.006521667">
+        <time>2015-12-17T18:54:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897420000" lon="-79.006493333">
+        <time>2015-12-17T18:54:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897426667" lon="-79.006465000">
+        <time>2015-12-17T18:54:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897436667" lon="-79.006441667">
+        <time>2015-12-17T18:54:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897441667" lon="-79.006415000">
+        <time>2015-12-17T18:54:15Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897453333" lon="-79.006390000">
+        <time>2015-12-17T18:54:16Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897463333" lon="-79.006365000">
+        <time>2015-12-17T18:54:17Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897473333" lon="-79.006333333">
+        <time>2015-12-17T18:54:18Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897480000" lon="-79.006300000">
+        <time>2015-12-17T18:54:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897486667" lon="-79.006266667">
+        <time>2015-12-17T18:54:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897495000" lon="-79.006233333">
+        <time>2015-12-17T18:54:21Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897503333" lon="-79.006198333">
+        <time>2015-12-17T18:54:22Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897510000" lon="-79.006165000">
+        <time>2015-12-17T18:54:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897521667" lon="-79.006133333">
+        <time>2015-12-17T18:54:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897533333" lon="-79.006101667">
+        <time>2015-12-17T18:54:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897543333" lon="-79.006075000">
+        <time>2015-12-17T18:54:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897556667" lon="-79.006056667">
+        <time>2015-12-17T18:54:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897573333" lon="-79.006040000">
+        <time>2015-12-17T18:54:28Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897586667" lon="-79.006016667">
+        <time>2015-12-17T18:54:29Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897595000" lon="-79.005983333">
+        <time>2015-12-17T18:54:30Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897600000" lon="-79.005948333">
+        <time>2015-12-17T18:54:31Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897606667" lon="-79.005913333">
+        <time>2015-12-17T18:54:32Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897613333" lon="-79.005878333">
+        <time>2015-12-17T18:54:33Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897620000" lon="-79.005845000">
+        <time>2015-12-17T18:54:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897626667" lon="-79.005808333">
+        <time>2015-12-17T18:54:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897635000" lon="-79.005763333">
+        <time>2015-12-17T18:54:36Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897645000" lon="-79.005720000">
+        <time>2015-12-17T18:54:37Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897653333" lon="-79.005675000">
+        <time>2015-12-17T18:54:38Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897660000" lon="-79.005630000">
+        <time>2015-12-17T18:54:39Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897668333" lon="-79.005583333">
+        <time>2015-12-17T18:54:40Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897676667" lon="-79.005538333">
+        <time>2015-12-17T18:54:41Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897686667" lon="-79.005495000">
+        <time>2015-12-17T18:54:42Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897696667" lon="-79.005451667">
+        <time>2015-12-17T18:54:43Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897705000" lon="-79.005410000">
+        <time>2015-12-17T18:54:44Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897713333" lon="-79.005366667">
+        <time>2015-12-17T18:54:45Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897723333" lon="-79.005323333">
+        <time>2015-12-17T18:54:46Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897731667" lon="-79.005280000">
+        <time>2015-12-17T18:54:47Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897743333" lon="-79.005236667">
+        <time>2015-12-17T18:54:48Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897753333" lon="-79.005190000">
+        <time>2015-12-17T18:54:49Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897763333" lon="-79.005143333">
+        <time>2015-12-17T18:54:50Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897771667" lon="-79.005095000">
+        <time>2015-12-17T18:54:51Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897776667" lon="-79.005048333">
+        <time>2015-12-17T18:54:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897785000" lon="-79.005000000">
+        <time>2015-12-17T18:54:53Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897795000" lon="-79.004951667">
+        <time>2015-12-17T18:54:54Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897805000" lon="-79.004901667">
+        <time>2015-12-17T18:54:55Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897816667" lon="-79.004848333">
+        <time>2015-12-17T18:54:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897826667" lon="-79.004795000">
+        <time>2015-12-17T18:54:57Z</time>
+        <fix>2d</fix>
+        <sat>6</sat>
+      </trkpt>
+      <trkpt lat="-2.897836667" lon="-79.004738333">
+        <time>2015-12-17T18:54:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897850000" lon="-79.004685000">
+        <time>2015-12-17T18:54:59Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897861667" lon="-79.004633333">
+        <time>2015-12-17T18:55:00Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897875000" lon="-79.004581667">
+        <time>2015-12-17T18:55:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897890000" lon="-79.004531667">
+        <time>2015-12-17T18:55:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897906667" lon="-79.004480000">
+        <time>2015-12-17T18:55:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.897923333" lon="-79.004430000">
+        <time>2015-12-17T18:55:04Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897935000" lon="-79.004380000">
+        <time>2015-12-17T18:55:05Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897945000" lon="-79.004343333">
+        <time>2015-12-17T18:55:06Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897955000" lon="-79.004311667">
+        <time>2015-12-17T18:55:07Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897966667" lon="-79.004278333">
+        <time>2015-12-17T18:55:08Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897976667" lon="-79.004241667">
+        <time>2015-12-17T18:55:09Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897985000" lon="-79.004210000">
+        <time>2015-12-17T18:55:10Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.897993333" lon="-79.004180000">
+        <time>2015-12-17T18:55:11Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898001667" lon="-79.004160000">
+        <time>2015-12-17T18:55:12Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898010000" lon="-79.004146667">
+        <time>2015-12-17T18:55:13Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898013333" lon="-79.004133333">
+        <time>2015-12-17T18:55:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898015000" lon="-79.004111667">
+        <time>2015-12-17T18:55:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898016667" lon="-79.004085000">
+        <time>2015-12-17T18:55:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898020000" lon="-79.004055000">
+        <time>2015-12-17T18:55:17Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898026667" lon="-79.004020000">
+        <time>2015-12-17T18:55:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898035000" lon="-79.003981667">
+        <time>2015-12-17T18:55:19Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898046667" lon="-79.003941667">
+        <time>2015-12-17T18:55:20Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898056667" lon="-79.003901667">
+        <time>2015-12-17T18:55:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898070000" lon="-79.003860000">
+        <time>2015-12-17T18:55:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898081667" lon="-79.003818333">
+        <time>2015-12-17T18:55:23Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898093333" lon="-79.003775000">
+        <time>2015-12-17T18:55:24Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898106667" lon="-79.003733333">
+        <time>2015-12-17T18:55:25Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898120000" lon="-79.003693333">
+        <time>2015-12-17T18:55:26Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898130000" lon="-79.003653333">
+        <time>2015-12-17T18:55:27Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898141667" lon="-79.003613333">
+        <time>2015-12-17T18:55:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898153333" lon="-79.003573333">
+        <time>2015-12-17T18:55:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898165000" lon="-79.003535000">
+        <time>2015-12-17T18:55:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898176667" lon="-79.003496667">
+        <time>2015-12-17T18:55:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898186667" lon="-79.003458333">
+        <time>2015-12-17T18:55:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898196667" lon="-79.003420000">
+        <time>2015-12-17T18:55:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898206667" lon="-79.003381667">
+        <time>2015-12-17T18:55:34Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898216667" lon="-79.003343333">
+        <time>2015-12-17T18:55:35Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898226667" lon="-79.003306667">
+        <time>2015-12-17T18:55:36Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898236667" lon="-79.003271667">
+        <time>2015-12-17T18:55:37Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898245000" lon="-79.003238333">
+        <time>2015-12-17T18:55:38Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898255000" lon="-79.003208333">
+        <time>2015-12-17T18:55:39Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898263333" lon="-79.003186667">
+        <time>2015-12-17T18:55:40Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898271667" lon="-79.003173333">
+        <time>2015-12-17T18:55:41Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898276667" lon="-79.003165000">
+        <time>2015-12-17T18:55:42Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898280000" lon="-79.003161667">
+        <time>2015-12-17T18:55:43Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898285000" lon="-79.003161667">
+        <time>2015-12-17T18:55:44Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898288333" lon="-79.003165000">
+        <time>2015-12-17T18:55:45Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898291667" lon="-79.003166667">
+        <time>2015-12-17T18:55:46Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898295000" lon="-79.003171667">
+        <time>2015-12-17T18:55:47Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898298333" lon="-79.003178333">
+        <time>2015-12-17T18:55:48Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898301667" lon="-79.003183333">
+        <time>2015-12-17T18:55:49Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898305000" lon="-79.003185000">
+        <time>2015-12-17T18:55:50Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898310000" lon="-79.003186667">
+        <time>2015-12-17T18:55:51Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898310000" lon="-79.003183333">
+        <time>2015-12-17T18:55:52Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003178333">
+        <time>2015-12-17T18:55:53Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003176667">
+        <time>2015-12-17T18:55:54Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003175000">
+        <time>2015-12-17T18:55:55Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898310000" lon="-79.003175000">
+        <time>2015-12-17T18:55:56Z</time>
+        <fix>2d</fix>
+        <sat>7</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003171667">
+        <time>2015-12-17T18:55:57Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003168333">
+        <time>2015-12-17T18:55:58Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898308333" lon="-79.003165000">
+        <time>2015-12-17T18:55:59Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898310000" lon="-79.003153333">
+        <time>2015-12-17T18:56:00Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898318333" lon="-79.003141667">
+        <time>2015-12-17T18:56:01Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898331667" lon="-79.003131667">
+        <time>2015-12-17T18:56:02Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898351667" lon="-79.003126667">
+        <time>2015-12-17T18:56:03Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898378333" lon="-79.003126667">
+        <time>2015-12-17T18:56:04Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898410000" lon="-79.003133333">
+        <time>2015-12-17T18:56:05Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898445000" lon="-79.003143333">
+        <time>2015-12-17T18:56:06Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898480000" lon="-79.003153333">
+        <time>2015-12-17T18:56:07Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898520000" lon="-79.003163333">
+        <time>2015-12-17T18:56:08Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898561667" lon="-79.003171667">
+        <time>2015-12-17T18:56:09Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898605000" lon="-79.003185000">
+        <time>2015-12-17T18:56:10Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898645000" lon="-79.003190000">
+        <time>2015-12-17T18:56:11Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898688333" lon="-79.003195000">
+        <time>2015-12-17T18:56:12Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898733333" lon="-79.003206667">
+        <time>2015-12-17T18:56:13Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898776667" lon="-79.003223333">
+        <time>2015-12-17T18:56:14Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898823333" lon="-79.003238333">
+        <time>2015-12-17T18:56:15Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898870000" lon="-79.003246667">
+        <time>2015-12-17T18:56:16Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898915000" lon="-79.003253333">
+        <time>2015-12-17T18:56:17Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.898961667" lon="-79.003261667">
+        <time>2015-12-17T18:56:18Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899010000" lon="-79.003270000">
+        <time>2015-12-17T18:56:19Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899058333" lon="-79.003278333">
+        <time>2015-12-17T18:56:20Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899108333" lon="-79.003286667">
+        <time>2015-12-17T18:56:21Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899158333" lon="-79.003295000">
+        <time>2015-12-17T18:56:22Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899206667" lon="-79.003301667">
+        <time>2015-12-17T18:56:23Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899255000" lon="-79.003310000">
+        <time>2015-12-17T18:56:24Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899300000" lon="-79.003316667">
+        <time>2015-12-17T18:56:25Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899343333" lon="-79.003323333">
+        <time>2015-12-17T18:56:26Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899385000" lon="-79.003328333">
+        <time>2015-12-17T18:56:27Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899423333" lon="-79.003335000">
+        <time>2015-12-17T18:56:28Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899450000" lon="-79.003345000">
+        <time>2015-12-17T18:56:29Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899465000" lon="-79.003356667">
+        <time>2015-12-17T18:56:30Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899471667" lon="-79.003363333">
+        <time>2015-12-17T18:56:31Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899475000" lon="-79.003365000">
+        <time>2015-12-17T18:56:32Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+      <trkpt lat="-2.899475000" lon="-79.003365000">
+        <time>2015-12-17T18:56:33Z</time>
+        <fix>2d</fix>
+        <sat>8</sat>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
